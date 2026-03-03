@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/>
 
-<!--
-**ruhiks/ruhiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ruhi**, an SEO Analyst exploring the world of search, content, and code.
 
-Here are some ideas to get you started:
+I currently work in the **News SEO** space, helping content rank and perform across Google Search, Discover, and AI-driven results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm fascinated by how search algorithms evolve and how structured content shapes visibility online.
+
+Outside of work, I’m learning to code, experimenting with digital ideas, and constantly exploring how the internet actually works.
+
+## Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ruhi-khan/)
+
+[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourid)
